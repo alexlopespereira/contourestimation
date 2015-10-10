@@ -1,5 +1,5 @@
 /*
- * HessTracker.h
+ * GhostDetector.h
  *
  *  Created on: Feb 9, 2014
  *      Author: alex
